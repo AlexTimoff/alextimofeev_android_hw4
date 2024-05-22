@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">alextimofeev_android_hw4</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="user_phone">Номер телефона</string>
+    <string name="sex">Пол</string>
+    <string name="male">муж</string>
+    <string name="female">жен</string>
+    <string name="receive_notifications">Получать уведомления</string>
+    <string name="about_authorization">Об авторизации на устройстве</string>
+    <string name="about_products">О новинках и предложениях</string>
+    <string name="points">Баллы</string>
+    <string name="number_of_points_scored">50/100</string>
+    <string name="save">сохранить</string>
+</resources>
